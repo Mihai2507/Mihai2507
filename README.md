@@ -18,6 +18,5 @@ I'm a student with a passion for software engineering and I’m always eager to 
 📫 You can reach me at:
 
   ~ Mail: ciungumihai9@gmail.com
-  ~ Instagram: www.instagram.com/mihai.mt
 
 
