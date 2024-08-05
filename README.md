@@ -1,6 +1,6 @@
 👋 Hi, I'm Mihai!
 
-I'm a student with a passion for software engineering and I’m always eager to explore new technologies and collaborate on interesting projects.
+I'm a fourth year student with a passion for software engineering and I’m always eager to explore new technologies and collaborate on interesting projects.
 
 🛠️ Skills:
 
