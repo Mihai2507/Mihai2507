@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Mihai!
 
-<!--
-**Mihai2507/Mihai2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student with a passion for software engineering and I’m always eager to explore new technologies and collaborate on interesting projects.
 
-Here are some ideas to get you started:
+🛠️ Skills:
+  👩‍💻 Programming Languages:
+    ~ Python
+    ~ C++
+    ~ SQL/MySQL
+    ~ Java
+  👩‍💻 Web Development:
+    ~ HTML
+    ~ CSS
+    ~ Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me at:
+  ~ Mail: ciungumihai9@gmail.com
+  ~ Instagram: www.instagram.com/mihai.mt
+
+
