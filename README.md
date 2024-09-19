@@ -14,6 +14,7 @@ I'm a fourth year student with a passion for software engineering and I’m alwa
     ~ HTML
     ~ CSS
     ~ Flask
+    ~ Django
 
 📫 You can reach me at:
 
